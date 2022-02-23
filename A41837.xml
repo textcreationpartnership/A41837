@@ -1,0 +1,393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Graves-end tilt-boat</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41837</idno>
+            <idno type="STC">Wing G1606</idno>
+            <idno type="STC">ESTC R4953</idno>
+            <idno type="EEBO-CITATION">12269989</idno>
+            <idno type="OCLC">ocm 12269989</idno>
+            <idno type="VID">58202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 186:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Graves-end tilt-boat</title>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes several stories, primarily allegories justifying or condemning the revolution of 1688.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Fiction.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58202:1"/>
+            <pb facs="tcp:58202:1"/>
+            <p>THE GRAVES-END Tilt-Boat.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58202:2"/>
+            <pb n="3" facs="tcp:58202:2"/>
+            <head>THE GRAVES-END Tilt-Boat.</head>
+            <p>BUſineſs, like the Goddeſs <hi>Diana,</hi> is the Idol that all the World Worſhips; and all pretend to it, even from the King to the Beggar; And is a thing of ſo much Reputation, that they that have none, make it their Buſineſs to ſeek ſome; and are as buſie in looking after Buſineſs, as a Hen that ſcrapes for a whole Brood of Chickens: This thing call'd Buſineſs is divided and diverſify'd into all ſorts and ſizes, and admits of more Variety than the colours of the Rainbow. It was Buſi<g ref="char:EOLhyphen"/>neſs that brought me to the <hi>Graves-End Tilt-Boat,</hi> as it did ſeveral others, for we were a whole Boat full, and every one pretended Bu<g ref="char:EOLhyphen"/>ſineſs; and tho' every Mans Buſineſs differ'd, yet it was all our Buſineſs to go to <hi>Graves-End:</hi> And the Weather being Warm, and the bright Eye of the World appearing in its Meridian
+<pb n="4" facs="tcp:58202:3"/> Luſtre, invited us to ſit very orderly upon the Benches, and not to lie hickle-de-pickle-de, which is the Allamode-poſture of the <hi>Tilt-Boat</hi> Paſſengers.</p>
+            <p>And whilſt each one was Endeavouring by ſome Diſcourſe or other to while away the time, and divert the tediouſneſs of our Paſſage, there was one Perſon who had the Mein of a Gentleman, (but both his Garb and Looks ſufficiently declar'd him a decay'd one) who ſat as Melancholly as an old Cat, and gave every one cauſe enough to ſuſpect that blind Fortune, like a very Jilt as ſhe is, had ſeverely bent her Brows, and frown'd upon him; and that he labour'd under the Malevolent Influen<g ref="char:EOLhyphen"/>ces of ſome unkind Stars, whoſe dire Aſpects he was Unable to Ward off: Which really touch'd my Fooliſh heart with ſo much pity, that I cou'd not but ſympathize with him in his unknown Sorrows. Which that I better might divert him from, Directing my Diſcourſe to him, What, all-a-mort, Sir, ſays I! If you have met with Troubles, trouble your ſelf no more about 'em; there's ſtill a Morning to the Darkeſt Night; nor was the Sky ever ſo over-caſt with Blackneſs, but that the all-Enlivening Sun ſhot forth his bright Corruſcant Beams again, and dry'd up all thoſe Tears the Clouds had wept, of which this lovely Day is a ſufficient demon<g ref="char:EOLhyphen"/>ſtration;
+<pb n="5" facs="tcp:58202:3"/> and ſince this Company, nay, and all Nature ſmiles, why ſhou'd a Cloud be ſeen upon your Brows? The Gentleman, who had till now held down his head in a diſponding poſture, and look'd as Meagre as the Picture of old Envy on the Monument, at this rais'd him<g ref="char:EOLhyphen"/>ſelf up, and ſaid, Ah Sir! I thank you for your good Advice, but did you know my Griefs as well as I do, you'd ſay they were too great to hope a Cure; and there is ſcarce a Day that paſſes, but makes 'em yet more deſperate, and me more hopeleſs. Nor is it for my ſelf alone that I am troubled, for I cou'd bear the worſt of Ills my ſelf, and dare my Angry Fate to pour down all its Curſes on my head, might I alone be made the Object of 'em, and no one ſuffer elſe. But 'tis another's Fate for whom I mourn, who from the greateſt height of Happineſs the World cou'd give him, is now become an Ab<g ref="char:EOLhyphen"/>ject, and made the very Tennis-Ball of Fortune. You have, ſaid I, for ought I know, reaſon for your Grief, and wou'd you but relate the Story of your Sorrows, it wou'd at leaſt, I do per<g ref="char:EOLhyphen"/>ſwade my ſelf, have this Effect, that by a gene<g ref="char:EOLhyphen"/>rous ſympathy we ſhou'd Commiſerate your Fate, and have a fellow-feeling of your Suffer<g ref="char:EOLhyphen"/>ings; and 'tis, you know, ſome Eaſe but to be pitied, and have Companions in Affliction. You Speak ſo generouſly, reply'd the Melancholy Gentleman, That tho' to anſwer your Requeſt,
+<pb n="6" facs="tcp:58202:4"/> be to renew my Grief, I'll give you the ſad Story of my Troubles as briefly as I can. Up<g ref="char:EOLhyphen"/>on this, there was a general ſilence, for we had all a Mind to hear him, whilſt he thus began.</p>
+            <div n="1" type="story">
+               <head>The Firſt Tale. <hi>The <g ref="char:V">Ʋ</g>nnatural Children.</hi>
+               </head>
+               <p>I Had once the Honour to be none of the meaneſt Servants to a Gentleman of the firſt Quallity in <hi>England;</hi> and one not more re<g ref="char:EOLhyphen"/>markable for Greatneſs than for Goodneſs; for he Excell'd in every thing, and was the moſt tender of all Husbands to his Wives (for he has had two) the moſt Indulgent Father to his Children, the kindeſt Maſter to his Servants, and the beſt of Landlords to his Tennants; whom he Endear'd to him by ſo much Kindneſs and Freedom, that they ſeem'd to be the Fami<g ref="char:EOLhyphen"/>ly of Love: I have already told you that my Maſter had two Wives, by the firſt of which he had two Daughters, who had they been as Ver<g ref="char:EOLhyphen"/>tuous as they were fair, no Father in the World could have been happier in his Children.</p>
+               <p>But, alas! The Caſe was far otherwiſe: For they both prov'd very Undutiful to their Fa<g ref="char:EOLhyphen"/>ther; eſpecially the Eldeſt, who was Proud
+<pb n="7" facs="tcp:58202:4"/> and Imperious, looking upon all others to be below her, and beholding 'em with ſcorn and contempt; ſo haughty ſhe was, ſhe cou'd not Endure to be contradicted; and naturally of an Aſpiring Temper, deſiring to be poſſeſs'd of her Father's Eſtate; which altho' (if he had dy'd without a Son) ſhe wou'd certainly have enjoy'd, yet ſhe wou'd rather have her Father turn'd out of doors, than tarry till that time came: In which Attempt her Youngeſt Siſter, who lov'd her Father beſt of the two, was yet drawn in to joyn with her, and ſo was her Husband alſo, tho' otherwiſe a quiet good na<g ref="char:EOLhyphen"/>tur'd Gentleman, who if he might but enjoy his Pleaſure, was willing to let the World go as it wou'd; Being far unlike the Eldeſt Daugh<g ref="char:EOLhyphen"/>ter's Husband, who was Proud and haughty, and Ambitious beyond Meaſure; of a bold and daring Spirit, but withal very Malicious and Revengeful, and one that wou'd ſtick at no<g ref="char:EOLhyphen"/>thing to bring about his own Deſigns: Making great pretences to Vertue and Religion, which ſerv'd only as a Cloak to his Ambition; and as a Blind whereby he might conceal his Wick<g ref="char:EOLhyphen"/>ed Purpoſes; looking upon Juſtice, Honeſty, Truth, and Right, as things invented to keep Fools in awe; and thoſe that he chiefly hugg'd in his Boſom, and made Privy to his Deſigns, were men of the ſame Profligate Principles with himſelf, by whoſe advice and counſel he
+<pb n="8" facs="tcp:58202:5"/> was always ſway'd: And then his Covetouſneſs was as great as his Ambition; which made him eſteem every thing lawful, that he thought wou'd prove Profitable; for Right or Wrong were things that never troubled him. Now this being the Character of my Maſters Chil<g ref="char:EOLhyphen"/>dren, it was not likely that things ſhou'd prove much better than afterwards they fell out.</p>
+               <p>Whilſt things continu'd thus, my Maſter's Eldeſt Brother dy'd, and having no lawful Iſſue of his own, left all his Eſtate to him, with an encreaſe of Power as well as Riches; for he was Lord of ſeveral large and Wealthy Mannors: All which my Maſter us'd with ſo much Lenity and Moderation, as made him ſtill better belov'd by every one.</p>
+               <p>And in a ſhort time after, his Lady (who was a Gentlewoman of a high Deſcent, and inrich'd with many great and Noble Vertues) was brought a Bed of a Young Son, which caus'd no little Joy amongſt us all, eſpecially my Maſter, who now had got an heir to all his great Eſtate; and this Young Gentleman was look'd upon to be the growing hopes of all the Family. — But, O the Fickleneſs of For<g ref="char:EOLhyphen"/>tune, and the Unconſtancy of ſublunary things! How quickly was our Joy turn'd into Mourn<g ref="char:EOLhyphen"/>ing? And our Rejoycing into Grief and Sor<g ref="char:EOLhyphen"/>row?
+<pb n="9" facs="tcp:58202:5"/> My Maſter's Eldeſt Daughter (altho ſhe had no Children of her own) who had always flatter'd her ſelf with the hopes of enjoying her Father's Eſtate, but now ſeeing a Young Heir was born to put her Noſe quite out of Joynt, and cutting off her ſelf and Siſter too, from the In<g ref="char:EOLhyphen"/>heritance, was mightily afflicted at this News, being (as I have ſaid) a Woman of a very haughty and Imperious Temper; and cou'd not forbear publickly to ſhew her Reſentment: But her Husband, finding on a ſudden all his great Expectations come to nothing, and that this Heir wou'd deprive him of the Inheritance, he fretted, fum'd, and ſtorm'd like a Mad<g ref="char:EOLhyphen"/>man, giving out that the Young Son was Spu<g ref="char:EOLhyphen"/>rious and ſurreptitious, and only a Trick of his Mother-in-Law's to cheat him of his Right; ſaying his Father was either Impos'd upon, or joyn'd in the confederacy againſt him; with many other Extravagant things of that Nature, reſolving however to run through all obſtacles, to gratifie his Pride and Am<g ref="char:EOLhyphen"/>bition.</p>
+               <p>And becauſe he knew his Father-in-law to be of a Religion differing from the Publick Profeſſion, he gave out that he had a deſign to introduce his own Religion in all places where he had to do; and that all thoſe who would not profeſs it, ſhou'd be turn'd out of
+<pb n="10" facs="tcp:58202:6"/> their Farms, and their Leaſes become forfeit<g ref="char:EOLhyphen"/>ed: And if at any time any difference happen<g ref="char:EOLhyphen"/>ed between my Maſter and the Tenants, he wou'd be ſtill interpoſing by his Spies, (For he had corrupted ſeveral of my Maſters Menial Servants; and amongſt others, his Secretary, who ſtill ſent him word of all Occurrences that happened in his Family; and likewiſe one of his Pages, bred up by him from a Child, who tho' he pretended not to like my Maſters Religion, was of an <hi>Ill Church</hi> himſelf; or elſe he wou'd never have forſook his Maſter, as he did) and like his Predeceſſor <hi>Abſalom</hi> of old, wou'd ſeem to pity the Tenants, becauſe there was none to do 'em Juſtice, ſetting himſelf up for a Patriot, in a Place where he had nothing to do, for his Eſtate lay in another County.</p>
+               <p>By theſe and ſuch-like Clandeſtine Proceed<g ref="char:EOLhyphen"/>ings, he had ſo far alienated the hearts of my Maſters Tenants from him, and many of his own Servants likewiſe, that his Intereſt was very great among 'em. And my Maſter happening to lop down ſome over-grown Trees that ſtood before his Manſion-houſe, and hinder'd his Proſpect, his Son-in-law caus'd it to be inſi<g ref="char:EOLhyphen"/>nuated among the Tenants, that this was a Breach of the Fundamental Conſtitution that by the Laws of the Mannor it cou'd not be done, but was an Arbitrary thing, and tended
+<pb n="11" facs="tcp:58202:6"/> to the deſtruction of the Tenants, all whoſe Woods he might cut down upon the ſame Pre<g ref="char:EOLhyphen"/>tence. — And then pretending, for the Secu<g ref="char:EOLhyphen"/>rity of their Religion and Liberties, to aſſiſt them againſt theſe Encroachments, which were occaſion'd by ſome Evil Servants of his Father's which ought to be removed, he raiſes the <hi>Poſſe Comitatus</hi> of the County where he liv'd, and having got ſeveral of the Tenants to joyn with him, comes upon the Eſtate, turns my Maſter, his Lady and Son, out of Doors, and ſeizes on all that was Valuable there, commit<g ref="char:EOLhyphen"/>ing ſo great a Ravage and Havock upon the Eſtate, that a hundred years will hardly make good again; turning all his Servants out of Doors, having firſt Stript them of what they had, except ſuch as were in his Intereſt, for the only Crime of being Faithful to our Maſter. Whoſe Diſconſolate Circumſtances, now in his Old Age, troubles me more than my own.</p>
+               <p>He has indeed one Friend, at the Expence of whoſe generous Charity he has been ſuppor<g ref="char:EOLhyphen"/>ted, ever ſince he was diſpoſſeſs'd of his Eſtate: This Friend commenc'd a Suit at Law with my Maſters Son-in-Law, for the Recovery of his Eſtate, and ſaid he wou'd never give over till he had accompliſh'd it, which gave us all great hopes of ſeeing good Days again. But after a Law-Suit of Ten Years continu<g ref="char:EOLhyphen"/>ance,
+<pb n="12" facs="tcp:58202:7"/> firſt in one Court, and then in another, my Maſter's Friend being almoſt ruin'd by it, his Son-in-Law having the largeſt Purſe, being in Poſſeſſion, and Feeing high, and Corrupting all the Judges with Bribes, he forc'd him at laſt (for all his great Boaſts to my Maſter,) to comply with him; ſo that there is an Agree<g ref="char:EOLhyphen"/>ment made between 'em; and he now owns the Son-in-Law for the Right Landlord, and all the Tenants have acknowledg'd him for ſuch, and pay their Rents to him; and all this without any Proviſion made for my Old Maſter, or his Young Son, or any of his Servants: So that now all our hopes of help are become hopeleſs, and we have nothing left us but a Proſpect of certain Ruine; as you may ſee by the following Scheme of our preſent Condition. A knagged Staff is our Companion, our Inn is at Beggars Buſh, Duke <hi>Humphry</hi> is our Hoſte, and Mother <hi>Need</hi> our Hoſteſs; our Bed is the Earth, the Air ſerves us for Curtains, and the Sky for a Canopy: Our Meat is only Sighs, our Drink is our Tears, our Sauce Hunger, and our Phyſick Patience, which being forc'd, is only a Medicine for a Mad Dog.</p>
+               <p>Judge now Gentlemen, (continu'd this An<g ref="char:EOLhyphen"/>tiquated Servant) if I have not great reaſon in ſuch a hopeleſs State to be Melancholly? Being reduc'd to ſo low an Ebb of Fortune, and de<g ref="char:EOLhyphen"/>priv'd
+<pb n="13" facs="tcp:58202:7"/> of that whch is the Relief of the moſt Miſerable, I mean Hope, (which as I ſaid) in our preſent Circumſtances is become hopeleſs.</p>
+               <p>This is indeed a Melancholly Story, ſaid ano<g ref="char:EOLhyphen"/>ther of the Paſſengers that ſat by him; but ſure there muſt be ſomething more in it: Why ſhou'd the Son turn his Father-in-Law out of Doors, and raiſe the <hi>Poſſe Comitatus</hi> without any Provocation? What ſignify'd the cutting down of a few Trees? That cou'd be no great matter: Beſides, they were his own, and who cou'd hinder him?</p>
+               <p>To this Mr. <hi>Melancholly</hi> reply'd, You miſ<g ref="char:EOLhyphen"/>take the Caſe, Sir; it was not ſo much the Cutting down the Trees; that was only a Pretence: It was the Young Son that was the Provocation; for he being the Heir, the Hopes of the Inheritance was thereby cut off: Had it not been for this, my Maſter might have cut down all the Trees on the Ground if he wou'd.</p>
+               <p>The Caſe was truly hard, Reply'd the Paſ<g ref="char:EOLhyphen"/>ſenger again, for a Father to be turn'd out of Doors thus by his Children; and ſhews 'em to be Extreamly Unnatural. But pray what be<g ref="char:EOLhyphen"/>came of the Youngeſt Daughter, for you don't tell us what concern ſhe had in the matter?</p>
+               <pb n="14" facs="tcp:58202:8"/>
+               <p>The Youngeſt Daughter, reply'd the Old Gentleman, always liv'd with her Father, and ſo lov'd him the beſt of the two; but being Inveigl'd by her Brother and Siſter, who told her the Eſtate ſhou'd come to her and her Chil<g ref="char:EOLhyphen"/>dren after their Death, (the Eldeſt having no Children of her own) ſhe conſented to them, and run away into another County with her Father's Chaplin (who had got a pair of Jack-Boots and put himſelf into a Troopers habit) juſt when her Brother came to take Poſſeſſion of the Eſtate, and turn all out of Doors. Her Husband, who I told you was a ſort of Un<g ref="char:EOLhyphen"/>thinking good-natur'd Man, being with my Maſter at that time, he told him he heard his Eldeſt Daughters Husband deſign'd to Seiz on his Eſtate, and turn him out of Door: The Young Gentleman (who ſeem'd to have no hand in the Plot) told him 'Twas <hi>Impoſſeeble,</hi> and yet the next Morning went away to his Brother, and left his Father: His Wife com<g ref="char:EOLhyphen"/>ing back, as ſoon as her Father was turn'd out, and his Eſtate Seiz'd.</p>
+               <p>Having heard the Gentleman's Story out, We all Commiſerated the Unhappy Condition of the Injur'd Father; and pitied the Meagre Gentleman that told the Story; Upon which a Paſſenger that ſat next but one to me, ad<g ref="char:EOLhyphen"/>dreſſing himſelf to him, ſaid, I have heard your
+<pb n="15" facs="tcp:58202:8"/> Tale, and am ſorry for your Misfortunes; and tho' it is not in my Power to help you; yet Sir, for your Diverſion, I'll tell you a Parallel Story to that which you have told; and indeed not much unlike it, only yours is of Unnatural Chil<g ref="char:EOLhyphen"/>dren, and mine is of a Cruel Father, which without any farther Preface, is as follows:</p>
+            </div>
+            <div n="2" type="story">
+               <head>The Second Tale. <hi>The Cruel Father.</hi>
+               </head>
+               <p>THere Liv'd not long ſince in one of the lar<g ref="char:EOLhyphen"/>geſt Counties in <hi>England,</hi> a Nobleman that ſhall be Nameleſs, whoſe Nobility of Birth and great Eſtate, had dignify'd him with the Title of Lord Lieutenant of the County where he liv'd; and where he might have liv'd happily to this Day, had not he been far more remar<g ref="char:EOLhyphen"/>kable for Wickedneſs than for his Birth: It would be hard to give an Exact Character of him, he was ſo great a Compound of all Vice, but Cruelty and Revenge had the Aſcendant over all the reſt; and his thirſt after Blood was inſatiable; which made him Implacable towards all whom he thought to have Injur'd him: He did indeed profeſs the Popiſh Reli<g ref="char:EOLhyphen"/>gion, but that, in the late Reigns, was thought
+<pb n="16" facs="tcp:58202:9"/> no Crime; and it is hard to ſay whether his Religion made him ſo Cruel, or his Cruelty made him turn Papiſt, (for he was bred a Pro<g ref="char:EOLhyphen"/>teſtant in his Younger Days) but this is cer<g ref="char:EOLhyphen"/>tain, he was Proud, Revengeful, and Malici<g ref="char:EOLhyphen"/>ous; and wou'd carry on his Deſigns by Trea<g ref="char:EOLhyphen"/>chery, and Deceit; his Words wou'd be ſmoo<g ref="char:EOLhyphen"/>ther than Oyl, when the greateſt Villany was in his Heart; and it was ſhrewdly ſuſpected by many that he caus'd his own Brother to be Poiſoned, that he might Enjoy his Eſtate: And this was very common to him, that he wou'd commit Twenty Villanies to cover one; and but to know that any Perſon ſuſpected him, was to have that Perſon taken out of the World: to which End he always kept a Crew of Beggarly Cut-throats depending upon him, which would Swear any Man out of his Life upon occaſion, eſpecially if he was Rich, and there was any hope of Forfeitures to fall to the King, which he wou'd be ſure to beg, and thereby gratifie his Knights of the Poſt out of the Ill-gotten Spoils: But if the Perſon prov'd too great to be taken off under a Pretence of Juſtice, his Crew were ready at his Beck to Cut their Throats, and then to lay the Crime on the Perſon they had ſo Murder'd, as if he had done it himſelf: He turn'd out all honeſt Gentlemen from being Juſtices of the Peace, or Officers of the Militia in the County where
+<pb n="17" facs="tcp:58202:9"/> he was Lord Lieutenant, and affected an Ar<g ref="char:EOLhyphen"/>bitrary Rule and Domination, in all that he did, not caring what he Swore, or how he took his Oath; ſo that no Man cou'd uſe that Confeſſion in the common Prayer, <hi>We have done thoſe things we ought not to have done, and left undone thoſe things we ought to have done,</hi> better than himſelf: And ſuch as himſelf was, were his Servants likewiſe; being a Pack of the greateſt Villains that ever ſcap'd the Gal<g ref="char:EOLhyphen"/>lows; as forward to do any Miſchief, as he was to ſet 'em about it: The moſt beggarly Scoundrels, and Blood thirſty Raſcals that ever came into the Service of a Gentleman; their only Vertue being Paſſive-Obedience, for they were, for the moſt part, ſuch Cowards, that they knew not how to reſiſt.</p>
+               <p>And yet this Gentleman (as wicked as he was) had two fair Daughters whoſe Piety and Vertue was ſo great and Exemplary, that it did more than Compenſate for all their Fathers Ills; who every Day offer'd up Pious Prayers to Heaven, to turn him from the Evil of his Ways; and griev'd to ſee the courſes that he took: Who in return, repay'd them Hatred for their Love and Duty; tho' for no other Reaſon, but becauſe they were Vertuous, and wou'd not turn Papiſts, as their Father had done, but both continu'd Zealous Proteſtants.
+<pb n="18" facs="tcp:58202:10"/> The Eldeſt of them, who was much the fair<g ref="char:EOLhyphen"/>eſt of the Two, and was the Wonder of her Sex, for Piety and Vertue, was Married to a Gentleman ſo truly Noble, and Compleat in all Perfections, as if his Breſt had been the Magazine of all the Vertues, for there they had their Conſtant Reſidence: His Actions were always the Product of a well-grounded Judgment, having Reaſon and Religion for their Baſis; In all his Attempts he was Brave and Undaunted, but wou'd never attempt an Unjuſt thing: He was always a great Aſſertor of the Liberty of Mankind, and always an Enemy to Popery and Slavery, for which rea<g ref="char:EOLhyphen"/>ſon his Father-in-Law hated him.</p>
+               <p>I have forgot to tell you, That the Lord Lieutenant had a mighty kindneſs for a Great Man in a Neighbouring County, who govern'd the People there with the extremeſt rigor and ſeverity Imaginable, uſing all manner of Cruelty and Oppreſſion towards, 'em; breaking down all the Bounds and Fences of Law and Juſtice, and making no Diſtinction either of Right or Wrong; not Valuing the moſt Sacred Laws and Edicts that had been Confirmed with the greateſt Solemnity; ſo that none that knew him wou'd ever truſt him, if they cou'd avoid it, and whoever did, was ſure to come off a Loſer: For Vows nor Oaths cou'd hold him, any longer than till he had an Opportunity to break 'em.
+<pb n="19" facs="tcp:58202:10"/> This was t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> only Crony of the Lord Lieute<g ref="char:EOLhyphen"/>nant, who <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dmir'd his Conduct, and follow'd his Exampl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in all he cou'd: But his Noble Son-in-law had always oppos'd his Practices, and hindred him ſeveral times from Oppreſ<g ref="char:EOLhyphen"/>ſing his Neighbours as he deſign'd to have done. Which made his Father hate him the more, for he lov'd no body ſo well as this old Tyrant; and had rather his Eſtate ſhou'd fall into his hands, than into the hands of his Son-in-Law; Who having as I ſaid Married the Eldeſt Daughter, and having no Son, the Eſtate muſt of Neceſſity fall into his hands; which the Lord Lieutenant and his Lady, (a Popiſh Bigot like her Husband) thus Endea<g ref="char:EOLhyphen"/>vour'd to prevent: They gave out a Report, and ſpread it abroad, that his Lady was with Child, who to make herſelf appear big, wore a Cuſhion upon her Belly; and underſtanding that two or three Poor Women that were their Neighbours were with Child at that time, had agreed to take away one of them that ſhou'd be a Boy, and privately convey it to her, who ſhou'd then pretend to be brought a Bed, and it ſhou'd paſs for her own Child. Who by that means ſhou'd be the Heir of the Eſtate, and be brought up in the Popiſh Reli<g ref="char:EOLhyphen"/>gion, and ſo his two Heretick Daughters and their Iſſue ſhou'd be Excluded. This Curſed Deſign to deprive his Children of their Right,
+<pb n="20" facs="tcp:58202:11"/> was mightily hugg'd by him and his Lady; who thought the matter laid ſo well, it cou'd admit of no Diſcovery. —</p>
+               <p>But it often falls out, the Crafty are taken in their own Snares; for as cloſely as the De<g ref="char:EOLhyphen"/>ſign was laid, ſeveral of their own Servants having a Watchful Eye over all that paſt, and who pretended to be much in their Intereſt, and ſhew'd a great Inclination to turn to their Religion, (tho' in their hearts they abhorr'd both their Religion and Practice, eſpecially this his Villanous Contrivance againſt his own Chil<g ref="char:EOLhyphen"/>dren) upon which account they were ſworn to Secrecy, and let into all the Deſign; by which means it came more particularly to be diſcover'd. Beſides which, ſeveral of the Gen<g ref="char:EOLhyphen"/>try, and chief Freeholders in the County, were very ſuſpicious of the Impoſture, and amaz'd at the Villany of the Contrivance; which yet was mightily Encourag'd and cry'd up by that old Rogue I have before Spoken of, in the adjoyning County, from whom he generally took all his Meaſures.</p>
+               <p>The time of the pretended Lying-in being come, for that a poor Cottager, one of their Tennant's Wives, being deliver'd of a luſty Boy, Notice was inſtantly given to the Lady thereof, who preſently orders the Child to be
+<pb n="21" facs="tcp:58202:11"/> brought, and then feigns to fall into Labour, in which ſhe made a great crying out, to put a gloſs upon the matter, but it was quickly over, for the Child was born to her hands, which was well known to ſeveral of the Ser<g ref="char:EOLhyphen"/>vants: However it was preſently publiſh'd that a Son was born, and great Rejoycings made upon it.</p>
+               <p>But the Gentry and ſeveral of the Freehol<g ref="char:EOLhyphen"/>ders of the County, being now beyond all Doubt aſſur'd of the Impoſture, were extream<g ref="char:EOLhyphen"/>ly troubled at the Daringneſs of this Wicked Contrivance; and juſtly reflected, that ſince their Lord Lieutenant had been guilty of ſo great a Piece of Barbarity to his own Chil<g ref="char:EOLhyphen"/>dren, there was no Wickedneſs that he wou'd ſtick at; and conſequently that both their Lives and Eſtates were in continual Danger from him.</p>
+               <p>And they had ſo much the greater reaſon to fear this, becauſe but the Day before his Lady pretended to be brought a Bed, he had caus'd ſeveral of the Principal Clergy of the County (whoſe watchful Eyes he was afrai'd would have diſcover'd his Villany) to be ac<g ref="char:EOLhyphen"/>cus'd of Diſloyalty to the King, and clapt up into Priſon; having alſo ſometime before, ſent down a Bloody Villain that was his chief Ser<g ref="char:EOLhyphen"/>vant,
+<pb n="22" facs="tcp:58202:12"/> into the Weſtern Parts of the County, and made it almoſt a meer ſhambles, upon the like Shameleſs Pretences; and being great at Court, no Complaints there wou'd be heard a<g ref="char:EOLhyphen"/>gainſt him; Beſides, he was ſo upheld in all his Wickedneſs by that old Villain, the Lord Lieutenant of the adjoyning County, between whom and himſelf there was ſo ſtrict a Friend<g ref="char:EOLhyphen"/>ſhip and Amity, that he now began to think himſelf above the Fear of Puniſhment.</p>
+               <p>Upon all theſe Conſiderations, ſeveral of the Principal Gentry and Free-holders of the Coun<g ref="char:EOLhyphen"/>ty ſecretly conſulted together what they ſhou'd do for the Preſervation of their Lives and Eſtates, and found they had no Remedy left, but to ſend to their Lord Lieutenant's Eldeſt Daughter's Husband, who was a Gentleman of great Intereſt and Power, both in his own County and in the Lord Lieutenant's, and who was both Wiſe and Valiant, and of Un<g ref="char:EOLhyphen"/>ſpotted Integrity and Honour; of which all that knew him were very ſenſible: For there had been very great offers made to him ſome time ago both by his Father-in-law, and his Old Neighbouring Brother in Iniquity, That if he wou'd change his Religion, and come into their Intereſt, he ſhou'd have whatever he wou'd ask; But he generouſly refus'd their offer, and let 'em know that he wou'd not do a
+<pb n="23" facs="tcp:58202:12"/> diſhoneſt thing to be made the greateſt Prince in <hi>Europe;</hi> after which, they always both fear'd and hated him.</p>
+               <p>Being come to this Reſult, they ſent two or three Gentlemen to him privatly, who gave him an Account of the then ſad Condition their County, Religion, Lives and Liberties were in, by the Arbitrary and Tyrannical Proceedings of their Lord Lieutenant; and likewiſe how lately he had ſubſtituted an Im<g ref="char:EOLhyphen"/>poſtor inſtead of a Son, as was pretended, to deprive him and his Lady of their Natural Birth-right. Adding, That he cou'd neither Anſwer it to God, his Country, his own Conſcience, nor his Lady, if he thus ſuffer'd her to be depriv'd of her Birth-right, by an Impoſtor.</p>
+               <p>Having maturely conſider'd of theſe things, and eſpecially of the Danger both Religion and Liberty were in, by theſe Violent Proceedings of his Father-in-law, and how Diſhonourable a thing it wou'd be, to Suffer a Beggars Brat to deprive his Lady of that Inheritance which is her Right; he reſolv'd to accept of their Invitation, and at leaſt to reaſon the Caſe with his Father-in-law about it.</p>
+               <p>But knowing well how Deceitful and Trea<g ref="char:EOLhyphen"/>cherous
+<pb n="24" facs="tcp:58202:13"/> he was in all his Actions, he thought it wou'd be a great piece of Imprudence in himſelf if he ſhou'd put himſelf into his Fa<g ref="char:EOLhyphen"/>ther's hands; and therefore took along with him ſeveral of his beſt Friends, as well to be a Guard to his Perſon, as to adviſe him in any difficult Emergencies that ſhou'd happen.</p>
+               <p>He was no ſooner come into the County, but the whole County expreſs'd an Extraor<g ref="char:EOLhyphen"/>dinary Joy, looking upon him to be (as indeed he was) their Friend and their Deliverer. The firſt thing he did, upon his coming into the County, was to ſend a Letter to his Father, to let him know he was coming to wait upon him; and to Endeavour to compoſe the Dif<g ref="char:EOLhyphen"/>ferences that had unhappily fallen out between him and the Free-holders and Gentlemen of the County, and alſo to Enquire into the Truth of a Report that had been brought to him about the Impoſture of his Pretended Son, which he ſhou'd be very glad to find falſe.</p>
+               <p>Upon the receiving of this Letter, the Lord Lieutenant chang'd his Countenance; but when he had read it, and found his Son-in-law had an Account of what had been done, relating to his pretended Son, his Guilt flew in his Face, and he was fill'd with the greateſt Con<g ref="char:EOLhyphen"/>ſternation imaginable; and preſently ſent away
+<pb n="25" facs="tcp:58202:13"/> his Lady, and her pretended Son, to his Neigh<g ref="char:EOLhyphen"/>bouring Companion in Miſchief; by whoſe ad<g ref="char:EOLhyphen"/>vice he had all along ſteer'd his Courſe.</p>
+               <p>The next Day the Lord Lieutenant was in a great agony in himſelf; the horror of his Wickedneſs and the juſt Vengeance due to him on that Account, made him extream Un<g ref="char:EOLhyphen"/>eaſie; ſo that inſtead of Adjuſting things fairly as his Son-in-law deſir'd, (being conſcious to himſelf that he was juſtly hated by the gene<g ref="char:EOLhyphen"/>rality of the People in the County) he rather choſe to with-draw himſelf out of the County, and go after his Lady and her pretended Son, than to look his Son-in-law in the Face, whom he had ſo much wrong'd.</p>
+               <p>The News of his having with-drawn him<g ref="char:EOLhyphen"/>ſelf out of the County, was no ſooner known, but it caus'd a general Rejoycing; (none be<g ref="char:EOLhyphen"/>ing ſorry for it, but a few beggarly Scoundrels, whom he had made the Inſtruments of his In<g ref="char:EOLhyphen"/>juſtice and Cruelty; whoſe chief Sorrow was, that they had now no more opportunity to ruine their Neighbours.) And his Son-in-law having taken Poſſeſſion of the Eſtate, which of Right belong'd to him, he was ſoon after choſen Lord Lieutenant, in the Room of his Father-in-law.</p>
+               <pb n="26" facs="tcp:58202:14"/>
+               <p>This made the old Lord Lieutenant almoſt raving Mad, who was ſtill as Wicked as ever, and now Plotted by all the ways and means he cou'd to take away his Life, ſometimes by Poy<g ref="char:EOLhyphen"/>ſon, and at other times by Aſſaſſinating him as he rid upon the Road; but being the Darling and Peculiar Care of Heaven, he has hitherto been preſerv'd, and I hope will always be ſo, having done nothing but what became an honeſt and worthy Gentleman: Himſelf, his Lady, and her Siſter, having Juſtify'd them<g ref="char:EOLhyphen"/>ſelves to be the beſt of Children, to the worſt of Fathers.</p>
+               <p>As ſoon as the Gentleman had made an end of this Tale, and we had all ſhew'd our Re<g ref="char:EOLhyphen"/>ſentments at the Barbarouſneſs and Cruelty of ſo unnatural a Father; one that had ſaid nothing all this while, but ſat as if he had been aſleep, having rous'd up himſelf, ſaid, Well Gentlemen, I have heard both your Tales, which I take to be one and the ſame, divers ways told; but you have done neither ſide that Right, which a Printed Copy of Verſes has done, that I found t'other day at the End of a Book; and which for the, Ingenuity of 'em, I committed to Memory; and if you pleaſe, Gentlemen, for your further Diverſion, I'll Repeat, as well as I can. We were all deſirous to hear what they were, and ſo intreated him to begin. Which he did thus:</p>
+            </div>
+            <div n="3" type="story">
+               <pb n="27" facs="tcp:58202:14"/>
+               <head>The Third Tale.</head>
+               <p>WHAT I am going to repeat, is call'd <hi>A Dialogue between the late King</hi> James <hi>and King</hi> William, <hi>after the Battle of the</hi> Boyn <hi>in</hi> Ireland: The Words are theſe:</p>
+               <floatingText xml:lang="eng" type="dialogue">
+                  <body>
+                     <sp>
+                        <speaker>King <hi>James.</hi>
+                        </speaker>
+                        <l>No Injur'd Monarch can his Fate Explore,</l>
+                        <l>A Father, and an <g ref="char:V">Ʋ</g>nkle's Right, is more:</l>
+                        <l>Nature pleads here; your Blood is on my ſide;</l>
+                        <l>Each beating Pulſe, and ev'ry Vein's Ally'd:</l>
+                        <l>What Fever then thus boil'd you into Arms?</l>
+                        <l>Is it Religion, or the Crown that charms?</l>
+                        <l>If from my Daughter's Right, your Claim you bring,</l>
+                        <l>She is too Early Queen, whilſt I am King.</l>
+                        <l>Your Love to her, you ſhew by wronging Me;</l>
+                        <l>You praiſe the Fruit, and yet cut down the Tree:</l>
+                        <l>That Crime Rome bluſht to puniſh, you purſue;</l>
+                        <l>Make it your Conſcience, and your Glory too:</l>
+                        <l>Why ſhou'd you ſhake my Glaſs ſo nearly done?</l>
+                        <l>The Ebbing Sands have but a few to run.</l>
+                     </sp>
+                     <sp>
+                        <pb n="28" facs="tcp:58202:15"/>
+                        <speaker>King <hi>William.</hi>
+                        </speaker>
+                        <l>I took but up that Crown you durſt not wear,</l>
+                        <l>And am Your Conquerour, as well as Heir:</l>
+                        <l>If Right Divine, does unto Kings belong,</l>
+                        <l>Where's the Divine, when once the King does Wrong?</l>
+                        <l>All Monarchs did from Civil Contracts ſpring,</l>
+                        <l>And he who breaks the Law, Diſſolves the King.</l>
+                        <l>Nor can you here a Parent's Right pretend,</l>
+                        <l>For Publick Safety knows no Private Friend:</l>
+                        <l>Thus Generous <hi>Pompey</hi> for his Countrey drew,</l>
+                        <l>Forgot his <hi>Julia,</hi> and her <hi>Caeſar</hi> too.</l>
+                     </sp>
+                     <sp>
+                        <speaker>King <hi>James,</hi>
+                        </speaker>
+                        <l>New Titles may be ſcaffolded with Laws;</l>
+                        <l>And frothy Monarchs of the Mobs applauſe,</l>
+                        <l>Accept a Crown on Terms too mean to wear;</l>
+                        <l>Then boaſt themſelves they are the Peoples Heir:</l>
+                        <l>But he that Crowns from Contracts does receive,</l>
+                        <l>Is King at Will, and Governs but by Leave:</l>
+                        <l>A Marble <hi>Caeſar,</hi> 'Pinion'd to a Throne;</l>
+                        <l>The People Regnant, and the Monarch Stone.</l>
+                     </sp>
+                     <sp>
+                        <speaker>King <hi>William.</hi>
+                        </speaker>
+                        <l>When Men did firſt their Bruitiſh Luſts purſue,</l>
+                        <l>And Force alone was all the Law they knew;</l>
+                        <l>When Senſe was Guardian, and when Reaſon Young,</l>
+                        <l>Twas then the Weak ſubmitted to the Strong:</l>
+                        <pb n="29" facs="tcp:58202:15"/>
+                        <l>Thus as the Bull walks Monarch of the Ground,</l>
+                        <l>So <hi>Nimrod, Caeſar,</hi> and the reſt were Crown'd:</l>
+                        <l>For he that cou'd Protect, and Conqueſt bring,</l>
+                        <l>Was from a Captain, ripen'd to a King.</l>
+                        <l>Thus they the People's Safety made their Choice,</l>
+                        <l>And Heaven confirm'd it hy the People's Voice.</l>
+                        <l>When you to Prieſts and Rome, the Laws Betray'd,</l>
+                        <l>The Injur'd Nation call'd to Me for Aid:</l>
+                        <l>And 'tis their Choice the Nobleſt Title brings,</l>
+                        <l>For Subjects are the ſureſt Guard to Kings.</l>
+                     </sp>
+                  </body>
+               </floatingText>
+               <p>When he had made an End of Repeating his Verſes, all the Paſſengers Commended them for Ingenious Lines; and moſt of us were of Opinion that thoſe attributed to King <hi>William</hi> were more to the purpoſe than thoſe of the late King <hi>James.</hi> Whilſt we were thus diſcourſing of the matter, a Country-like Fel<g ref="char:EOLhyphen"/>low amongſt us, ſaid, Gentlemen, I have heard your Diſcourſe, but it is above my Under<g ref="char:EOLhyphen"/>ſtanding; nor indeed do I love to meddle with Kings and Princes, they are Perſons of too high a Quality for me to talk of: And I am ſure it wou'd be more to my purpoſe to talk of the Tilling of my Ground, and the Sowing of my Corn, for that's a thing that will turn to ſome Account, if GOD ſend a good Seed-time and Harveſt: And yet I am thankful to GOD that has given us ſuch a
+<pb n="30" facs="tcp:58202:16"/> good King, and can drink his Health as hear<g ref="char:EOLhyphen"/>tily as any one; but as to matters of State and Government, that's none of my Buſineſs: Let us but ſerve GOD, and obey the King, and live quietly under his Adminiſtration, and I don't doubt but we ſhall do well enough, without Preſcribing Rules to our Superiours: For if the King and Parliament don't know how to order things, I am ſure I don't: And now, Gentlemen, ſince you have been telling Stories, pray give me leave to tell a Story too, but it ſhall be a very ſhort one. — We were all taken with the Honeſt Plainneſs of the Country-man, and bid him go on; which he did thus:</p>
+            </div>
+            <div n="4" type="story">
+               <head>
+                  <hi>The Fourth Tale.</hi> The Traveller and Lyon.</head>
+               <p>THERE was a certain Traveller that go<g ref="char:EOLhyphen"/>ing thorow a Wood ſaw a huge <hi>Lyon</hi> ly<g ref="char:EOLhyphen"/>ing upon the Ground, which at firſt put him into a very great fright, but ſeeing the <hi>Lyon</hi> lie ſtill, he began to recover himſelf again, and went nearer him, till at laſt he got ſo near that he perceiv'd the <hi>Lyon</hi> was aſleep; upon which, being now grown a little fool-hardy,
+<pb n="31" facs="tcp:58202:16"/> he ſurveys him round about, and mightily lik'd his Shaggy Neck and Noble Head, but thought his hinder parts were not ſo hand<g ref="char:EOLhyphen"/>ſome as they might be made; for he had ſeen of your <hi>Iſland-Dogs,</hi> (which is a Creature very much reſembling a <hi>Lyon</hi> in its ſhape) and he had oft obſerv'd that the Shaving or cut<g ref="char:EOLhyphen"/>ting off the hair of their hinder parts, made 'em look much more hand ſome, and therefore they were generally ſerv'd ſo: And this Tra<g ref="char:EOLhyphen"/>veller being conceited of his own Abilities, and being willing to oblige the <hi>Lyon</hi> in the ſame manner, he pulls out his Tackle out of his Pockets, and goes to work accordingly: He had'nt proceeded far in his Buſineſs, but the <hi>Lyon</hi> wakes, and having never been Trim'd before, and not liking of it now, wonder'd at the Impudence of the Traveller, that he ſhou'd go about to Trim him, without asking his Leave: However, tho' he did'nt ſet him a work, he was reſolv'd to pay him his Wages, and ſo turning his head about, he gave him a Mortal Gripe, which put an end to his Work and Life together, as a juſt Reward of his Pre<g ref="char:EOLhyphen"/>ſumptuous Folly. And thus,
+<q>
+                     <lg>
+                        <l>As he that did the <hi>Lyon</hi> Shave,</l>
+                        <l>Found 'twas a dangerous thing,</l>
+                        <l>So will each bold and ſawcy Knave</l>
+                        <l>That meddles with the King.</l>
+                     </lg>
+                     <lg>
+                        <pb n="32" facs="tcp:58202:17"/>
+                        <l>Let Kings alone in their high Sphere,</l>
+                        <l>And our own Buſineſs do:</l>
+                        <l>For things in a falſe Light appear</l>
+                        <l>
+                           <g ref="char:V">Ʋ</g>nto the Vulgar's View.</l>
+                     </lg>
+                     <lg>
+                        <l>He that preſumes to ſhave the <hi>Lyon's</hi> skin,</l>
+                        <l>Does little know what Danger he is in.</l>
+                     </lg>
+                  </q>
+               </p>
+               <p>The Countrey-Man came off with great Ap<g ref="char:EOLhyphen"/>plauſe; and we all concluded he had reaſon for what he ſaid. — This made another of the Paſſengers, that had ſaid nothing yet, to tell this following Tale.</p>
+            </div>
+            <div n="5" type="story">
+               <head>The Fifth Tale. <hi>The Faithful Shepherd.</hi>
+               </head>
+               <p>AN honeſt and careful Shepherd, that had the keeping of all the Flocks of Sheep in a Countrey Town, belonging to his Charge, and had approv'd himſelf for ſeveral Years of being very juſt in Diſcharge of his Place, whoſe Induſtry and Solicitude for the good of his Flock, was equal to his Judgment and Honeſty; had certain Intelligence brought him, That there lay abroad not far off, an old <hi>Wolf,</hi> and
+<pb n="33" facs="tcp:58202:17"/> a Young Whelp, which they were afraid wou'd make a Ravage upon the Flock of Sheep: The Shepherd began to be concern'd at the News, and was preſently for ſetting his thoughts at work, how he might beſt preſerve his Sheep in caſe of Danger; and conſidering the Large<g ref="char:EOLhyphen"/>neſs of his Flock, and the great Extent and compaſs of Ground they took up in feeding, he thought it Neceſſary, to have a Guard of Dogs to attend the Flock for their Preſervation from the Out-lying old Wolf, and her Young Whelp: Upon this the Shepherd deſires that the Town wou'd Aſſemble themſelves toge<g ref="char:EOLhyphen"/>ther, to conſider of a Propoſal he had to make to 'em for the Safety of the Flocks under his Charge; which accordingly they did; and then the Shepherd gives 'em an Account of the Danger the Flocks were in, by reaſon of an old Wolf and her Young Whelp, that lay Skulking abroad, and was Watching for an opportunity to come down upon the Flocks and ſpoil 'em; to prevent which, he deſir'd to have a Guard of Twenty Dogs to be al<g ref="char:EOLhyphen"/>ways in readineſs to reſiſt the Wolf, when<g ref="char:EOLhyphen"/>ever ſhe ſhou'd make any Attack upon the Sheep.</p>
+               <p>This Propoſal was canvaſs'd by the Towns-folks, ſome being for it, and others being a<g ref="char:EOLhyphen"/>gainſt it: Thoſe that were for it, urg'd that the
+<pb n="34" facs="tcp:58202:18"/> Propoſal was highly reaſonable; and that thoſe juſtly deſerv'd to loſe their Sheep, that refus'd to be at the charge of a Guard to defend 'em in time of Danger<g ref="char:punc">▪</g> And that it was impoſſible that the Shepherd's Dog he had already (who was as old and feeble as a <hi>London</hi>-Watchman) cou'd preſerve ſo great a Flock from the Wolf, in caſe ſhe ſhou'd ſet upon 'em: Thoſe that were againſt it, Reply'd, That the Demand of ſo great a Guard was unreaſonable; and that ſeeing the Wolf abroad had yet made no Attempt to come down-upon the Sheep, why ſhou'd they ſo much fear her now? And that for their parts, if ſuch a Number of Dogs ſhou'd be rais'd for the Security of the Sheep, they ſhou'd be more apprehenſive of danger from them, than from the Wolf: 'Tis true, they knew the Shepherd was careful and honeſt, but they did not know what the Dogs might be; and therefore were very unwilling to have ſo great a Number rais'd, and that Ten was more than wou'd be needful. To this the other Party reply'd, That as long as they were aſſur'd of the honeſty of the Shepherd, they had no reaſon to be afraid of the Number of Dogs; beſides, the Flock conſiſting of above Twenty Thouſand Sheep, Twenty Dogs were as few as cou'd be thought on to preſerve 'em: And to ſay, That the Wolf had made no Attempt to come down upon 'em yet, was no argument at
+<pb n="35" facs="tcp:58202:18"/> all that ſhe wou'd not; and that it might more reaſonably be thought, That becauſe ſhe had not yet, therefore ſhe wou'd, as ſoon as ſhe found an Opportunity: Upon the whole mat<g ref="char:EOLhyphen"/>ter, it was at laſt carried in the Affirmative, That the Dogs ſhou'd be rais'd, and the Shep<g ref="char:EOLhyphen"/>herd have the Guard he deſir'd: And they were rais'd accordingly; and with their Noiſe and Number ſo affrighted the Wolf, that ſhe never offer'd to make any Attempt upon the Sheep; but in a ſhort time after, the Dogs being a little ſharp ſet, fell upon the Sheep themſelves; and would make nothing to devour half a ſcore, and ſometimes twenty in a Night: This occaſion'd horrid complaints to be made againſt the Dogs to the Shepherd by the Townſmen; but the Dogs being ſluſh'd and fatten'd with ſucking the Sheep's Blood, r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fus'd to be commanded by the Shepherd, and wou'd do only what they pleas'd themſelves: This mightily troubled the Shepherd, who was ſo much concern'd at it, that he deſir'd another Meeting of the Towns-folks, and there laying the Exorbitant Carriage of the Dogs before 'em, they order'd 'em to be immedi<g ref="char:EOLhyphen"/>ately ſuppreſs'd, chuſing rather to run the hazard of the Wolves coming upon the Sheep, than to have 'em certainly devour'd by their own Dogs.</p>
+               <q>
+                  <pb n="36" facs="tcp:58202:19"/>
+                  <l>Some, that they <hi>Sylla's</hi> Rock may Shun,</l>
+                  <l>Do on <hi>Charibda</hi> ſtraight-way run.</l>
+                  <l>And of two Evils, each one knows,</l>
+                  <l>The leaſt is always to be choſe:</l>
+                  <l>Better let Foes beyond-ſea Roam,</l>
+                  <l>Than be deſtroy'd by Friends at home.</l>
+               </q>
+               <p>This Tale was no ſooner told, but a <hi>Kentiſh-Man</hi> in the Boat ſaid, I don't care if I tell you one Tale, but it ſhall be a Merry one: Where<g ref="char:EOLhyphen"/>upon he thus began.</p>
+            </div>
+            <div n="6" type="story">
+               <head>
+                  <hi>The Sixth Tale.</hi> Of a Widow and her Son.</head>
+               <p>A Thrifty ſtaid Batchelour in our County took his Mother, being a Widow, to keep his houſe, and ſo they liv'd together; yet his Mother had a great mind to ſee her Son Married, telling him he wou'd never be ſettled till he had a good Wife: But he uſually anſwer'd his Mo<g ref="char:EOLhyphen"/>ther, that he had no mind to Marry, and as long as he had her Company to look after his Houſe, he was very well ſatisfied: But as continual Dropping will make an Impreſſion upon a Stone, ſo his Mothers continual Solicitations made him at laſt have a deſire to Marry, if he
+<pb n="37" facs="tcp:58202:19"/> cou'd light of a good Wife: This his Mother promis'd to hearken out for him; and in a little time ſhe was as good as her Word, having heard of a young handſome Widow, and rich withal: To this Widow ſhe takes her Son, who ſees her and likes her; and ſhe gave him leave to make his Addreſſes to her, with ſome hopes of Succeſs: In proſecution of which Amour, he riſes betimes one Morning, takes his Horſe, and goes to make the young Widow a Viſit; but ſhe not expecting him ſo ſoon, he was ſurpriz'd to find her in Bed with another Man, as he did; but ſo as his Miſtreſs had no knowledge of it; and ſo without ſpeaking a Word he went away again, and rides directly to his Siſters, to make his complaint of his ill Luck to her, whoſe Husband he knew was gone a Journey Forty Miles beyond <hi>London</hi> the day before: When he came to his Siſters, he finds the door open, and ſo goes into the Kitchin, but ſeeing no Body there, he goes to the Par<g ref="char:EOLhyphen"/>lour where ſhe lay, and the Door ſtanding a Char, as we ſay in the Country, he Peeps in, and ſees a Man in Bed with his Siſter, doing Buſineſs there; he was once about going in, but Shame and Grief prevented him; and ſo ſhut<g ref="char:EOLhyphen"/>ting the Door, away he goes from thence, and rides to <hi>Maidſtone,</hi> where meeting with ſeveral of his Acquaintance, he falls a Drinking to drive Care away, if he could; and ſtays there till 12 a Clock at Night; but ſays nothing to any one
+<pb n="38" facs="tcp:58202:20"/> of what he had ſeen that Morning, either with reſpect to his Sweet-heart, or his Siſter.</p>
+               <p>Being come home, he finds the Family all in Bed; and being unwilling to diſturb 'em, puts his Horſe to Graſs, and gets into the Barn, and lays himſelf down upon the Straw, and being weary, and having drank hard, falls faſt aſleep till Morning. At which time the Threſher comes into the Barn, and falls to Threſhing as hard as he could; but did not ſee him, who lay at the End of the Barn, with a heap of Straw between, which hinder'd the Threſher from ſeeing him. About an hour after, comes in his Mother, with a Tankard of Ale, and a Toaſt and Cheeſe, which the Threſher and ſhe Eat and Drank together, and afterwards he laid her upon the Straw, and there gave her what ſhe wanted: The Son being a witneſs of this, was ſo troubled he was like a Man diſtracted; but ſtill kept himſelf privat. At laſt the Threſher going out of the Barn about ſome Buſineſs, he ſteps out, and goes into the Houſe as if but new come home, and ſits himſelf down by the Fire ſide in a Melancholly poſture; whereupon his Mother asks him what's the matter? He falls a railing upon Women at a great rate: She de<g ref="char:EOLhyphen"/>ſires to know the occaſion, and asks him whe<g ref="char:EOLhyphen"/>ther his Miſtreſs was not kind to him? He re<g ref="char:EOLhyphen"/>plies No; but he had ſeen her very kind to ſomebody elſe; and then tells her, he had ſeen
+<pb n="39" facs="tcp:58202:20"/> her a Bed with another Man: At this the Mo<g ref="char:EOLhyphen"/>ther call'd her a hundred Whores, and ſeem'd mighty glad that he had diſcover'd it; and told him he had no reaſon to be troubled for that, as long as it was found out; and that ſhe wou'd provide a better Wife for him, for ſhe wou'd'nt for never ſo much have a Whore in their Fa<g ref="char:EOLhyphen"/>mily, which had always kept it ſelf clear and unſpotted: The Son then told her that was'nt all his Trouble, for there was ſomething elſe that was worſe, troubled him; and his Mother being very ſolicitous to know what that was, he told her, That riding to ſee his Siſter, to make his Complaint to her, he had alſo found a Man a Bed with her, his Brother being gone beyond <hi>London:</hi> Out upon her for a Whore, crys the Mother, to bring our Family into Diſ<g ref="char:EOLhyphen"/>grace thus! Well, I'll never own her for my Daughter more; with many other words to the ſame purpoſe. Then the Son told her, that was'nt all his Trouble neither; for coming home Early this Morning (ſays he) from <hi>Maid<g ref="char:EOLhyphen"/>ſtone,</hi> and being loth to diſturb you, I turn'd my Horſe to Graſs, and went into the Barn, and fell aſleep upon the Straw; and about Eight a Clock I ſaw you come in with a Toaſt and Ale to the Threſher, which you and he Drank up together; and then he laid you down upon the Straw, and you know what he did there, as well as I can tell you? And did you ſee that
+<pb n="40" facs="tcp:58202:21"/> too? Says his Mother: Yes, that I did, ſaid he: Well then, ſays ſhe, go your ways, and Marry your Sweet-heart, and make no words on't; for I tell you, They'll all do't; they'll all do't, as ſoon as they have Time and Opportunity.</p>
+               <q>
+                  <l>This Juſtifies the Proverb; ſtill the worſt</l>
+                  <l>And greateſt Whore of all, will cry Whore firſt:</l>
+                  <l>And when ſhe's caught, and moſt of all put to't,</l>
+                  <l>She pleads for an Excuſe, They all will do't.</l>
+                  <l>If that be true, what ſhall a Man ſay more?</l>
+                  <l>If all will do't, then every one's a Whore.</l>
+                  <l>But you will ſay, All to Condemn 'tis hard;</l>
+                  <l>Thoſe that are honeſt ought to have regard:</l>
+                  <l>With all my heart; to that I'll ſay Amen.</l>
+                  <l>But if they'll all do't, Pray who's honeſt then?</l>
+               </q>
+               <p>This Story made us all Laugh; &amp; Encourag'd another Paſſenger to tell that which follows.</p>
+            </div>
+            <div n="7" type="story">
+               <head>
+                  <hi>The Seventh Tale.</hi> Of the Aſs and the Schollar.</head>
+               <p>A Country Gentleman of a good Eſtate, of all ſorts of Creatures lov'd Aſſes beſt; (and ſome have not been afraid to ſay, He was an Aſs for his Pains) but whether that be
+<pb n="41" facs="tcp:58202:21"/> true or no, I won't determine; but the Tale I am going to tell you is matter of Fact; which is, That a certain Countrey Gentlemen lov'd Aſſes above any other ſort of Creatures, fanci<g ref="char:EOLhyphen"/>ed an Aſs to be the handſomeſt, and to have the moſt pleaſant Voice; and accordingly gave order to his Servants that they ſhou'd have the beſt Proviſion and Looking to, and wou'd always chuſe to be in their Company (perhaps as being fitteſt for him) ſo that the dull lazy Aſſes were fat and plump, and in good caſe, and look'd as Bluff as a <hi>Dutch Butter-Box:</hi> It happen'd that a Poor Schollar coming that way, and by the Largeneſs of the Manſion-Houſe, gueſſing there was as large a Soul inhabited within, he made up to it, and coming into the Court, ask'd a Perſon with a fine Out-ſide, Who it was that liv'd in that Houſe? The Man told him, A Lover of Aſſes; I thought ſo, reply'd the Schollar, by your being ſo fine. If you won't a Cox-comb, return'd the fine Gentle<g ref="char:EOLhyphen"/>man, you'd be an Aſs too, and then you might be as fine as I: For none but Aſſes are reſpect<g ref="char:EOLhyphen"/>ed. If that be true, ſaid the Schollar, I'll e'en burn my Books, and go to play; or if I Study, it ſhall be how to be an Aſs, that I may get Preferment.</p>
+               <q>
+                  <l>Sure now the World's come to a pleaſant paſs,</l>
+                  <l>When men muſt Study how to play the Aſs:</l>
+                  <pb n="42" facs="tcp:58202:22"/>
+                  <l>And yet there's reaſon for't, becauſe we ſee</l>
+                  <l>Aſſes moſt fit for all Employments be.</l>
+                  <l>If Aſſes therefore ben't accounted beſt,</l>
+                  <l>Why are they ſtill preferr'd above the reſt?</l>
+                  <l>But yet an Aſs ſo baſe a Creature is,</l>
+                  <l>I'll be no Aſs, tho' I Preferment miſs.</l>
+               </q>
+            </div>
+            <div n="8" type="story">
+               <head>
+                  <hi>The Eighth Tale.</hi> Of the Mayor and the Kings Ape.</head>
+               <p>SOme few years ago, there was a fellow that wore the Kings Cypher and Crown upon his Coat, with the Two Letters of the Kings Name; this Fellow had a Warrant from the Maſter of the Revels to Travel throughout <hi>England</hi> with a fine Ape that he had, which cou'd dance, and do ſeveral Feats of Activity, whereby he got his Living by ſhowing him at Markets and Fairs: and this Ape always rid upon a Maſtiff Dog, and a Man with a Drum to attend him.</p>
+               <p>It happened that theſe four Travellers came to a Town call'd <hi>Looe</hi> in <hi>Cornwal;</hi> where the Inn being taken, the Drum went about to ſig<g ref="char:EOLhyphen"/>nifie to the People that at ſuch an Inn was an Ape of great Quality, and extraordinary Ver<g ref="char:EOLhyphen"/>tue, if they pleas'd to beſtow their Money and Time to ſee him. But the Townſmen being for the moſt part <hi>Fiſher-men,</hi> and other Pain<g ref="char:EOLhyphen"/>ful and Laborious Callings, had no leiſure to
+<pb n="43" facs="tcp:58202:22"/> waſte either Time or Money to ſee an Ape ſhew Tricks, ſo that no Audience came to the Inn, to the great Diſappointment of the <hi>Jack<g ref="char:EOLhyphen"/>an-Apes</hi> and his Maſter: Who finding himſelf like to be a Loſer, Reſolv'd to put a Trick upon the Town, let the Iſſue be what it wou'd. Whereupon he call'd for a <hi>Pen, Ink,</hi> and <hi>Pa<g ref="char:EOLhyphen"/>per,</hi> and Writ the following Warrant to the Mayor of the Town:</p>
+               <p>
+                  <hi>Theſe are to will and require you, and every of you, with your Wives and Families, that upon the ſight hereof, you make your Perſonal Appearance before the King's Ape; for it is an Ape of Rank and Quality, who is to be practiſed through his Majeſties Dominions, that by his long Experience among his Majeſties Subjects, he may be the better Enabled to do his Majeſty Service hereafter; and hereof fail you not, as you will anſwer the Contrary,</hi> &amp;c.</p>
+               <p>This Warrant being brought to the Mayor, he ſent for a <hi>Shoe-maker</hi> at the farther end of the Town to read it: Which when he heard, he ſent for all his Brethren, who went with him to the Town-Hall, to conſult what to do in this weighty Buſineſs, where after they had ſat a Quarter of an hour, no Man ſaying any thing, nor any Man knowing what to ſay; at laſt a young Man that never had born any Office, ſaid, Gentlemen, if I were fit to ſpeak, I think (without offence, under the Correcti<g ref="char:EOLhyphen"/>on
+<pb n="44" facs="tcp:58202:23"/> of the Worſhipful) I ſhould ſoon decide this Buſineſs; to whom the Mayor ſaid, I pray, good Neighbour ſpeak; for tho' you never did bear any Office here, yet you may ſpeak as Wiſely as ſome of us; Then, Sir, ſaid the Young Man, My opinion is, That this Ape-Carrier is a ſcoffing gybing Knave; and one that deſigns to make this worthy Corporation a meer Laughing-ſtock through-out the whole Kingdom; for was it ever known that a fellow ſhou'd be ſo Impudently Audacious as to ſend a Warrant without either Name or Date, to a Mayor of a Town, to the King's Lieutenant, and that he with his Brethren, their Wives and Families, ſhou'd be all commanded to come before a <hi>Jackanapes?</hi> This is againſt the Liber<g ref="char:EOLhyphen"/>ty of the Subject; and I am ſure our gra<g ref="char:EOLhyphen"/>cious King, who is in all reſpects ſo tender of his Peoples Liberties, wou'd never grant ſuch a Warrant. My Counſel therefore is, That you take him and his Ape, with his Man and his Dog, and whip the whole Crew of 'em out of Town: Which I think will be much for your Credit; for he deſerves to be pun<g ref="char:EOLhyphen"/>iſh'd that dares Counterfeit the Kings Warrant.</p>
+               <p>At theſe Words, a grave Man of the Town, who ſeem'd to be in a great Paſſion, ſaid, My Friend, you have ſpoken little better than Treaſon; for it is the Kings Ape; and there<g ref="char:EOLhyphen"/>fore beware what you ſay: For had it been in
+<pb n="45" facs="tcp:58202:23"/> the late Reigns, you might have been fairly hang'd for it, and this Corporation have loſt their Charter for hearing you: You ſay true, ſaid Mr. Mayor, with a great deal of Indig<g ref="char:EOLhyphen"/>nation; I wonder who bid that ſaucy Fellow come into our Company? And what had you to do among us? For you never bore any Office, and that's a ſign by your wiſe Speech: You are a fine Counſellor indeed, to adviſe us to whip the King's Ape! The Rogue had a mind to have us all hang'd! Get you out of my ſight, Sirrah! For I cann't be well while you're here. So away went poor <hi>Peel-Garlick;</hi> for he was no Company for them. He being gone, Well, ſays Mr. Mayor, what's now to be done in this matter? Marry, ſays another Senior, we may ſee by the Crown upon his Coat, that he's one of the Kings Servants, and who knows what Power a Knave may have in the Court, to do poor Men wrong in the Country? Let us go and ſee the Ape: It is but two pence a piece; no doubt but it will be well taken: And if it comes to the Kings Ear, he will think us good Subjects that will ſhew ſo much duty to his Ape: What may he think we wou'd do to his Bears, if they ſhou'd come hither? Beſides, it is above Two Hun<g ref="char:EOLhyphen"/>dred Miles to <hi>London,</hi> and if we ſhou'd be complain'd on, and be fetch'd with Purſivants, (whereas now every Man may eſcape for his
+<pb n="46" facs="tcp:58202:24"/> Two-Pence) I'll warrant it wou'd coſt us ten Groats a piece at the leaſt.</p>
+               <p>This Counſel, being grounded upon ſo much reaſon, paſt currant, and all the whole Drove of the Towns-men; with their Wives and Children, went ro ſee the Ape, who was ſitting on a Table with a Chain about his Neck: To whom Mr. Mayor (becauſe he was the King's Ape) put off his Hat, and made a Leg; but <hi>Jack</hi> let him paſs unre<g ref="char:EOLhyphen"/>garded; But Mrs. Mayoreſs coming next in her clean Linnen, laid her hands before her Belly, and like a Wo<g ref="char:EOLhyphen"/>man of good Breeding, made a low Courtſie; whilſt <hi>Jack</hi> (ſtill Courtier-like) though he reſpected not the Mayor, yet to ſhew his kindneſs for his Wife, he put forth his paw towards her, and made a Mouth; which Mrs. Mayo<g ref="char:EOLhyphen"/>reſs perceiving, ſaid, Husband, I think in my Conſcience that the King's Ape doth Mock me; Whereat <hi>Jack</hi> made another Mouth at her: Which Mr. Mayor eſpying, Was very angry, ſaying, Sirrah, thou Ape, I do ſee thy ſawci<g ref="char:EOLhyphen"/>neſs, and if the reſt of the Courtiers have no more man<g ref="char:EOLhyphen"/>ners than thou haſt, they have all been better fed than taught: How thou cameſt to be the Kings Ape, I know not; for I believe thou art a <hi>Jacobite</hi> in thy heart, or elſe thou wouldeſt behave thy ſelf with more Reverence be<g ref="char:EOLhyphen"/>fore his Lieutenant: And I will make thee know before thou goeſt hence, That this Woman is my Wife, and an Ancient Woman, and a Midwife, and one that might have been thy Mother for Age.</p>
+               <p>In this rage, Mr. Mayor went to the Inn-Door, where the <hi>Jack-an Apes</hi>'s Maſter was gathering Money as faſt as he cou'd: To whom Mr. Mayor ſaid, Sir, Do you allow your Ape to abuſe my Wife? No, Sir, ſaid he, by no means: Why truly Sir, ſaid the Mayor, there is Witneſs enough within, that have ſeen him make Mops and Mows at her, as if ſhe were not worthy to wipe his Shoes; and I will not ſo put it up: Upon which, the Apes Maſter reply'd, Sir, I will preſently give him Condign Puniſhment; and ſtraight he took his Whip into his hand, and holding the
+<pb n="47" facs="tcp:58202:24"/> Ape by the Chain, he gave him half a dozen ſuch Jerks as made the Apes Teeth to chatter in his Head, like ſo many Virginal-Jacks: Which Mr. Mayor perceiving, ran to him, and held his hands, ſaying, Enough, enough, good Sir; You have done like a Gentleman; let me intreat you not to give Correction in your Wrath: And I pray you and your Ape, after the Play is done, to come to my Houſe, and Sup with me and my Wife, where you ſhall be very Welcome.</p>
+               <q>
+                  <l>When once a Fool rules in a Corporation,</l>
+                  <l>He makes himſelf the By-word of the Nation.</l>
+               </q>
+            </div>
+            <div n="9" type="story">
+               <head>
+                  <hi>The Ninth Tale.</hi> Of the Country-Man and the Phyſician.</head>
+               <p>A Country-man and Neighbour of mine, that lives near <hi>Sittenburn,</hi> had a Wife that was always out of or<g ref="char:EOLhyphen"/>der, and never well, (which had reduc'd the poor Man to a very low Condition.) Once ſhe perſwaded her Husband (who was a very ignorant Man) to carry her Water to a Doctor, new come into thoſe parts, of great Reputation for many Remarkable Cures ſaid to be by him perform'd. Ac<g ref="char:EOLhyphen"/>cordingly the Husband goes one Morning with her Water, and being had into the Room where he was, Good mor<g ref="char:EOLhyphen"/>row to your Worſhip Maſter <hi>Confuſion,</hi> ſays he; <hi>Phyſitian,</hi> thou wou'dſt ſay, ſaid the Doctor: Truly, ſaid the Coun<g ref="char:EOLhyphen"/>try-Man, I am no Schollard, but altogether unrude, and ingrum, and my Wife having piſs'd in a Pottle-Pot, I have brought it to your Doctorſhip, beſeeching you to taſte her Water: So the Doctor took the Water and put it into an Urinal, and having view'd it, he ſaid, My Friend I find thy Wife is very weak; I found that my ſelf long ago, ſaid the Country-Man, for I have kept a wench this Quarter of a Year, to lead her up and down the Houſe; I did'nt bring her Water to know that. Was you ever with any Doctor before, ſays the <hi>Phyſitian?</hi> Yes, indeed, Sir, ſays he, with many a one, to my coſt: What did they tell you her
+<pb n="48" facs="tcp:58202:25"/> Diſtemper was, ſays the Doctor? Truly Sir, they tell me ſhe's in a Preſumption; Conſumption, thou ſhou'dſt ſay, ſaid the Doctor: I told you before, ſaid the Country-Man, I didn't underſtand your allegant Speeches; but I believe yow'n ſpeak true enough; for ſhe has well nigh conſum'd all that ever I had: Well, ſaid the Doctor, but does ſhe keep her Bed? No truly Sir, ſaid the Country-Man, for being hard put to't for Money, I was fain to ſell her Bed a Fortnight ago. Is'nt ſhe very coſtive, ſaid the Doctor? Coſtly, ſays the Country-man? Your Worſhip's in the right on't there, indeed; for ſhe has Coſt me all that I have upon her already: Said, the Doctor, You miſtake me, Friend, I don't ſay Coſtly, but Coſtive; I mean is ſhe looſe or bound? Indeed Sir, ſaid the Country-man, ſhe's bound to me during term of Life: And I am bound to her too, the more's my Sorrow. I but prethee, ſays the Doctor, tell me plainly, how does ſhe go to Stool? Juſt as ſhe goes to a Chair, Sir, ſays he: I am fain to have one to lead her: Pſhaw! ſays the Doctor, thou do'ſt not apprehend me yet; I ſee I muſt be plain, to make thee underſtand; how does ſhe go to Shit? Why truly Sir, ſays he, as other Folks do; the Backward way; ſhe has a free Paſſage behind ſtill: But I mean, ſays the Doctor, almoſt angry, is it thick or thin? O, as to that, ſays he, in the Morning 'tis ſo thick you may cut it with a Knife; and at Night 'tis ſo thin, your Worſhip may Eat it with a ſpoon.</p>
+               <q>
+                  <l>Altho the Clown and Doctor diſagree,</l>
+                  <l>Both Fool and Knave the one and th' other be.</l>
+               </q>
+               <p>Theſe Tales made the Time paſs away ſo pleaſantly, that we were arriv'd at <hi>Graves-end</hi> ſooner than we expe<g ref="char:EOLhyphen"/>cted: Which hinder'd ſome Paſſengers from Telling other Pleaſant Stories. But ſeveral of us being to return to <hi>London</hi> again in a day or two, We promiſs'd one another, that if we ſhou'd be ſo happy as to meet together again, we wou'd then renew our Converſation.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58202:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
